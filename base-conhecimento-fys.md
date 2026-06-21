@@ -1,33 +1,46 @@
-# Cenário 01 — Padaria de Bairro
+# Base de Conhecimento — FYS e Desafio de Padarias
 
-## Entrada
+Esta base resume os pontos usados no projeto. Ela foi criada a partir do repositório público da DIO sobre o desafio FYS.
 
-Tipo de padaria: pequena padaria de bairro  
-Perfil dos clientes: moradores da região, café da manhã, almoço rápido e lanche da tarde  
-Objeção provável: já vendo marcas conhecidas, não sei se FYS vai girar  
-Espaço disponível: apenas uma prateleira pequena na geladeira  
-Objetivo: conseguir um teste inicial com poucas unidades  
+## Fontes
 
-## Saída simulada
+- Repositório DIO/FYS:
+  https://github.com/digitalinnovationone/copiloto-vendas-ia-atendimento-cliente-fys
 
-### 1. Pitch curto
+- Transcrição da live:
+  https://raw.githubusercontent.com/digitalinnovationone/copiloto-vendas-ia-atendimento-cliente-fys/main/knowledge/transcricao-live-fys.txt
 
-A FYS pode ser uma boa opção para testar na sua geladeira porque é um refrigerante do Grupo HEINEKEN, com proposta moderna, sabores diferentes e comunicação leve. A ideia não é trocar tudo que você já vende, mas colocar uma alternativa nova para o cliente experimentar.
+- Bootcamp DIO/HEINEKEN:
+  https://www.dio.me/bootcamp/heineken-inteligencia-artificial-aplicada-vendas
 
-### 2. Argumentos de venda
+## Pontos sobre a marca
 
-- Teste com baixo risco: começar com poucas unidades reduz o medo de produto parado.
-- Curiosidade do consumidor: sabores diferentes podem chamar atenção de quem já está acostumado às mesmas marcas.
-- Consumo individual: a lata de 350 ml combina com café da manhã, almoço rápido e lanche.
+- FYS é apresentada como refrigerante do Grupo HEINEKEN.
+- A marca tem comunicação leve, bem-humorada e com autoironia.
+- A marca não tenta se posicionar como a número um; ela brinca com essa posição para gerar proximidade.
+- A live cita sabores como Guaraná da Amazônia, Limão Siciliano, Laranja-Pera, versões zero e tônica.
+- A live também cita foco em consumo individual e lata de 350 ml.
 
-### 3. Resposta para objeção
+## Desafios comerciais
 
-Entendo que marcas conhecidas giram mais fácil. Por isso, a sugestão não é substituir o que já vende, mas fazer um teste pequeno. Se tiver boa saída, você aumenta aos poucos. Se não girar, o risco foi controlado.
+- Muitas pessoas ainda não conhecem a FYS.
+- A marca precisa gerar experimentação.
+- A visibilidade no ponto de venda é importante.
+- A disponibilidade do produto também é um desafio.
+- Donos de padaria podem apresentar objeções ligadas a espaço, giro, hábito do consumidor e marcas já conhecidas.
 
-### 4. Sugestão de ativação
+## Canal de padarias
 
-Colocar poucas latas em uma área visível da geladeira, próximas aos produtos de maior saída, com uma plaquinha simples: "Novo por aqui: experimente FYS".
+- Padarias foram apresentadas como um canal relevante para bebidas não alcoólicas.
+- A live aponta que a força de vendas tradicional pode priorizar pontos com maior venda de cerveja.
+- O desafio sugerido é criar uma solução que ajude a identificar, priorizar e ativar padarias, reduzindo dependência da força de vendas tradicional.
 
-### 5. WhatsApp de follow-up
+## Como esta base será usada pela IA
 
-Olá! Obrigado pela conversa de hoje. Como combinamos, a ideia é fazer um teste pequeno com FYS para medir a aceitação dos clientes, sem mexer no que já funciona na padaria. Posso te enviar uma sugestão inicial de pedido?
+A IA deve usar esses pontos para gerar:
+
+- argumentos de abordagem comercial;
+- respostas para objeções;
+- sugestões de ativação simples;
+- mensagens de follow-up;
+- exemplos de conversa para treinamento.
